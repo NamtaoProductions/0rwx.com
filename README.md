@@ -67,5 +67,5 @@ Code:
 
 ```
 
-Steal this and replace the message with something suitable for your contribution, perhaps "AI:1 - I problem solved with AI, but all the code of this PR is written by me." or "AI:X - Written by Claude Code, output verified by me" etc.
+Steal this and replace the message with something suitable for your contribution, perhaps `"AI:1 - I problem solved with AI, but all the code of this PR is written by me."` or `"AI:X - Written by Claude Code, output verified by me"` etc.
 
