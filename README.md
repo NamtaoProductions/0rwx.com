@@ -52,24 +52,6 @@ The code for 0rwx.com. Issues and PRs welcome, no AI please!
 </tr>
 </table>
 
-I like [@jdonszelmann](https://github.com/jdonszelmann)'s use in https://github.com/rust-lang/rust/pull/165500 :
-
-> [!NOTE]
->
-> | [AI:0](http://0rwx.com) | AI:0 I've not used an LLM for any part of this PR, this includes any related work like research. |
-> | ----------------------- | ------------------------------------------------------------------------------------------------ |
-
-Code:
-
-```md
-> [!NOTE]
->
-> | [AI:0](http://0rwx.com) | AI:0 I've not used an LLM for any part of this PR, this includes any related work like research. |
-> | ----------------------- | ------------------------------------------------------------------------------------------------ |
-```
-
-Steal this and replace the message with something suitable for your contribution, perhaps `"AI:1 - I problem solved with AI, but all the code of this PR is written by me."` or `"AI:X - Written by Claude Code, output verified by me"` etc.
-
 ## Badges
 
 You can also add simple badges to your project's README.
@@ -97,3 +79,25 @@ You can also add simple badges to your project's README.
 ```
 [![AI:X EXECUTE](https://img.shields.io/badge/AI-EXECUTE-grey?style=flat&logoSize=auto&labelColor=13171f)](https://0rwx.com)
 ```
+
+## Usage
+
+
+I like [@jdonszelmann](https://github.com/jdonszelmann)'s use in https://github.com/rust-lang/rust/pull/165500 :
+
+> [!NOTE]
+>
+> | [AI:0](http://0rwx.com) | AI:0 I've not used an LLM for any part of this PR, this includes any related work like research. |
+> | ----------------------- | ------------------------------------------------------------------------------------------------ |
+
+Code:
+
+```md
+> [!NOTE]
+>
+> | [AI:0](http://0rwx.com) | AI:0 I've not used an LLM for any part of this PR, this includes any related work like research. |
+> | ----------------------- | ------------------------------------------------------------------------------------------------ |
+```
+
+Steal this and replace the message with something suitable for your contribution, perhaps `"AI:1 - I problem solved with AI, but all the code of this PR is written by me."` or `"AI:X - Written by Claude Code, output verified by me"` etc.
+
