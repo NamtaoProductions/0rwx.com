@@ -52,7 +52,7 @@ The code for 0rwx.com. Issues and PRs welcome, no AI please!
 </tr>
 </table>
 
-I like @jdonszelmann's use in https://github.com/rust-lang/rust/pull/165500 :
+I like [@jdonszelmann](https://github.com/jdonszelmann)'s use in https://github.com/rust-lang/rust/pull/165500 :
 
 > [!NOTE]
 > | [AI:0](http://0rwx.com) | AI:0 I've not used an LLM for any part of this PR, this includes any related work like research. |
