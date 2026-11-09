@@ -51,3 +51,27 @@ The code for 0rwx.com. Issues and PRs welcome, no AI please!
 <td>I vibe code</td>
 </tr>
 </table>
+
+## Badges
+
+Let others know your project's level of AI usage!
+
+[![AI:0 ZERO](https://img.shields.io/badge/AI-ZERO-grey?style=flat&logoSize=auto&labelColor=13171f)](https://0rwx.com)
+```
+[![AI:0 ZERO](https://img.shields.io/badge/AI-ZERO-grey?style=flat&logoSize=auto&labelColor=13171f)](https://0rwx.com)
+```
+
+[![AI:R READ](https://img.shields.io/badge/AI-READ-grey?style=flat&logoSize=auto&labelColor=13171f)](https://0rwx.com)
+```
+[![AI:R READ](https://img.shields.io/badge/AI-READ-grey?style=flat&logoSize=auto&labelColor=13171f)](https://0rwx.com)
+```
+
+[![AI:W WRITE](https://img.shields.io/badge/AI-WRITE-grey?style=flat&logoSize=auto&labelColor=13171f)](https://0rwx.com)
+```
+[![AI:W WRITE](https://img.shields.io/badge/AI-WRITE-grey?style=flat&logoSize=auto&labelColor=13171f)](https://0rwx.com)
+```
+
+[![AI:X EXECUTE](https://img.shields.io/badge/AI-EXECUTE-grey?style=flat&logoSize=auto&labelColor=13171f)](https://0rwx.com)
+```
+[![AI:X EXECUTE](https://img.shields.io/badge/AI-EXECUTE-grey?style=flat&logoSize=auto&labelColor=13171f)](https://0rwx.com)
+```
